@@ -13,10 +13,6 @@ overall = { bg = "#faf4ed" }
 [mgr]
 cwd = { fg = "#56949f" }
 
-# Hovered
-hovered         = { reversed = true }
-preview_hovered = { underline = true }
-
 # Find
 find_keyword  = { fg = "#ea9d34", bold = true, italic = true, underline = true }
 find_position = { fg = "#907aa9", bg = "reset", bold = true, italic = true }
